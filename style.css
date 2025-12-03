@@ -1,0 +1,10 @@
+.text__struct-h1-p{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.img__struct{
+    display: grid;
+    grid-column: 2;
+    grid-row: 2;
+}
